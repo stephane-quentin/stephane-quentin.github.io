@@ -1,0 +1,12 @@
+.col-md-4, nav{
+  background-color: lightblue;
+}
+h2{
+  background: SteelBlue;
+}
+#fleche{
+  position: fixed;
+  top: 95%;
+  right: 3%;
+  opacity: 0.2;
+}
